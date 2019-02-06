@@ -1,1 +1,1 @@
-# BearerTokenAuthToAzureWebApp
+# Client application that authenticates to target application using a bearer token that is generated from a service principal. Implementation example of the following excellent blog: https://blogs.msdn.microsoft.com/jpsanders/2017/03/17/accessing-azure-app-services-using-azure-ad-bearer-token-2/
